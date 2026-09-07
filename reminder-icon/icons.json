@@ -1,0 +1,17 @@
+{
+  "name": "CircleReminder 自定义图标",
+  "renderingMode": "template",
+  "icons": [
+    { "id": "o2", "name": "O2", "src": "./O2.svg" },
+    { "id": "sim", "name": "SIM 卡", "src": "./SIM.svg" },
+    { "id": "washer", "name": "洗衣机", "src": "./Washer.svg" },
+    { "id": "card", "name": "银行卡", "src": "./card.svg" },
+    { "id": "cmb", "name": "招商银行", "src": "./cmb.svg" },
+    { "id": "dog", "name": "宠物", "src": "./dog.svg" },
+    { "id": "glass", "name": "玻璃清洁", "src": "./glass.svg" },
+    { "id": "icbc", "name": "工商银行", "src": "./icbc.svg" },
+    { "id": "t-mobile", "name": "T-Mobile", "src": "./t-mobile.svg" },
+    { "id": "toilet", "name": "马桶清洁", "src": "./toilet.svg" },
+    { "id": "vodafone", "name": "Vodafone", "src": "./vodafone.svg" }
+  ]
+}
