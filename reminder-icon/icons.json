@@ -2,7 +2,7 @@
   "name": "单色icon",
   "renderingMode": "template",
   "icons": [
-    { "id": "o2", "name": "O2", "src": "./O2.svg" },
+    { "id": "o2", "name": "O2", "src": "./o2.svg" },
     { "id": "sim", "name": "SIM 卡", "src": "./SIM.svg" },
     { "id": "washer", "name": "洗衣机", "src": "./Washer.svg" },
     { "id": "card", "name": "银行卡", "src": "./card.svg" },
