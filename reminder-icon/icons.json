@@ -1,5 +1,6 @@
 {
   "name": "单色icon",
+  "version": "2026.09.08",
   "renderingMode": "template",
   "icons": [
     { "id": "o2", "name": "O2", "src": "./o2.svg" },
@@ -16,7 +17,14 @@
     { "id": "giffgaff", "name": "Giffgaff", "src": "./giffgaff.svg" },
     { "id": "simyo", "name": "Simyo", "src": "./simyo.svg" },
     { "id": "one_nz", "name": "One.nz", "src": "./one_nz.svg" },
-    { "id": "apple", "name": "apple", "src": "./apple.svg" },
-    { "id": "Google_Voice", "name": "Google Voice", "src": "./Google_Voice.svg" }
+    { "id": "apple", "name": "Apple", "src": "./apple.svg" },
+    { "id": "Google_Voice", "name": "Google Voice", "src": "./Google_Voice.svg" },
+    { "id": "1password", "name": "1Password", "src": "./1password.svg" },
+    { "id": "chatgpt", "name": "ChatGPT", "src": "./chatgpt.svg" },
+    { "id": "claude", "name": "Claude", "src": "./claude.svg" },
+    { "id": "codex", "name": "Codex", "src": "./codex.svg" },
+    { "id": "google", "name": "Google", "src": "./google.svg" },
+    { "id": "netflix", "name": "Netflix", "src": "./netflix.svg" },
+    { "id": "spotify", "name": "Spotify", "src": "./spotify.svg" }
   ]
 }
