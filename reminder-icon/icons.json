@@ -15,5 +15,6 @@
     { "id": "vodafone", "name": "Vodafone", "src": "./vodafone.svg" }
     { "id": "giffgaff", "name": "Giffgaff", "src": "./giffgaff.svg" }
     { "id": "simyo", "name": "Simyo", "src": "./simyo.svg" }
+    { "id": "Google_Voice", "name": "Google Voice", "src": "./Google_Voice.svg" }
   ]
 }
