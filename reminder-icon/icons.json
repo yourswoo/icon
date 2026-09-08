@@ -13,6 +13,7 @@
     { "id": "t-mobile", "name": "T-Mobile", "src": "./t-mobile.svg" },
     { "id": "toilet", "name": "马桶清洁", "src": "./toilet.svg" },
     { "id": "vodafone", "name": "Vodafone", "src": "./vodafone.svg" }
-    { "id": "giffgaff", "name": Giffgaff", "src": "./giffgaff.svg" }
+    { "id": "giffgaff", "name": "Giffgaff", "src": "./giffgaff.svg" }
+    { "id": "simyo", "name": "Simyo", "src": "./simyo.svg" }
   ]
 }
