@@ -16,6 +16,7 @@
     { "id": "giffgaff", "name": "Giffgaff", "src": "./giffgaff.svg" },
     { "id": "simyo", "name": "Simyo", "src": "./simyo.svg" },
     { "id": "one_nz", "name": "One.nz", "src": "./one_nz.svg" },
+    { "id": "apple", "name": "apple", "src": "./apple.svg" },
     { "id": "Google_Voice", "name": "Google Voice", "src": "./Google_Voice.svg" }
   ]
 }
