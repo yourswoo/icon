@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225.23 221.64">
-  <defs>
-    <style>
-      .cls-1 {
-        fill-rule: evenodd;
-      }
-
-      .cls-1, .cls-2 {
-        fill: #0050ff;
-        stroke-width: 0px;
-      }
-    </style>
-  </defs>
-  <path class="cls-1" d="m0,91.27c0,49.91,36.23,91.27,88.88,91.27s88.54-41.36,88.54-91.27C177.41,38.29,141.86,0,88.88,0S0,38.29,0,91.27h0Zm34.18,0c0-33.16,20.17-65.29,54.69-65.29s54.35,32.13,54.35,65.29c0,31.11-16.75,65.29-54.35,65.29s-54.69-34.18-54.69-65.29h0Z"/>
-  <path class="cls-2" d="m225.23,221.64v-12.17h-31.52c12.61-12.39,29.09-27.43,29.09-43.8,0-15.15-9.51-22.56-24.22-22.56-7.85,0-15.93,1.99-22.89,5.53l1.22,12.83c5.09-3.32,11.28-6.19,17.81-6.19s12.61,3.32,12.61,10.4c0,14.16-26.21,36.05-33.4,43.02v12.94h51.32Z"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="197.071mm" height="193.913mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6295.81 6194.91"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+    .fil1 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="圖層_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_528457150496">
+   <g>
+    <path class="fil0" d="M-0 2551.03c0,1395 1012.64,2551.03 2484.23,2551.03 1471.58,0 2474.72,-1156.03 2474.72,-2551.03 -0.28,-1480.81 -993.91,-2551.03 -2474.72,-2551.03 -1480.81,0 -2484.23,1070.22 -2484.23,2551.03l0 0zm955.34 0c0,-926.83 563.76,-1824.88 1528.6,-1824.88 964.85,0 1519.1,898.05 1519.1,1824.88 0,869.54 -468.17,1824.88 -1519.1,1824.88 -1050.93,0 -1528.6,-955.34 -1528.6,-1824.88l0 0z"/>
+    <path class="fil1" d="M6295.25 6194.91l0 -340.15 -881 0c352.46,-346.31 813.08,-766.68 813.08,-1224.23 0,-423.45 -265.81,-630.56 -676.96,-630.56 -219.41,0 -445.25,55.62 -639.78,154.57l34.1 358.6c142.27,-92.8 315.28,-173.01 497.79,-173.01 182.52,0 352.46,92.79 352.46,290.68 0,395.78 -732.58,1007.61 -933.54,1202.43l0 361.67 1434.41 0 -0.56 0z"/>
+   </g>
+  </g>
+ </g>
 </svg>

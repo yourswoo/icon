@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" id="netflix"><path d="M22.19 33.55c1.31.05 3.67.25 4.94.4a2.25 2.25 0 0 0 .56 0s0-6.31 0-14V6h-5.48v27.55zm-9.88.45s.48 0 1.06-.1l1.76-.18c.6 0 2.49-.16 2.69-.17V6h-5.53z" fill="#000000"></path><path fill="#4d4d4d" d="m12.29 6 5.55 15.71.44 1.24C20.71 29.83 22 33.53 22 33.54l.81.05c1.35.06 3 .21 4.29.36a2.27 2.27 0 0 0 .56 0L22.2 18.39 21.69 17c-.5-1.4-.83-2.34-2.83-8-.54-1.52-1-2.81-1-2.87v-.1h-5.57Z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="110.048mm" height="199.546mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20223.93 36671.38"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fil1 {fill:#4D4D4D;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="圖層_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_528435539680">
+   <path class="fil0" d="M12965.96 36082.02c1715.7,65.48 4806.57,327.43 6469.87,523.89 121.88,15.14 245.14,23.08 367.4,23.08 122.27,0 245.52,-7.94 366.8,-23.27 121.27,-15.35 0,-8264.18 0,-18335.7l-0.75 -18270.02 -7177.11 0 0 36082.04 -26.21 -0.02zm-12939.75 589.36c0,0 628.66,0 1388.27,-130.96l2305.05 -235.75c785.82,0 3261.13,-209.54 3523.09,-222.64l0 -36082.04 -7242.61 0 26.21 36671.38z"/>
+   <path class="fil1" d="M-0 0l7268.8 20575.27 576.26 1624.02c3182.55,9010.69 4872.07,13856.54 4872.07,13869.65l1060.86 65.48c1768.08,78.56 3929.08,275.04 5618.58,471.49 121.57,14.65 244.81,22.59 367.07,22.59 122.27,0 245.52,-7.94 366.8,-22.77l-7151.37 -20378.63 -667.95 -1820.47c-654.84,-1833.57 -1087.04,-3064.68 -3706.44,-10477.56 -707.22,-1990.72 -1309.71,-3680.23 -1309.71,-3758.81l0 -130.96 -7294.97 -0.02 0 -39.27z"/>
+  </g>
+ </g>
+</svg>
