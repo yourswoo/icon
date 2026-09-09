@@ -1,0 +1,31 @@
+{
+  "name": "彩色logo",
+  "version": "2026.09.09",
+  "renderingMode": "original",
+  "icons": [
+    { "id": "icbc", "name": "中国工商银行", "src": "./中国工商银行_rounded.png" },
+    { "id": "grok", "name": "Grok AI", "src": "./Grok AI_rounded.png" },
+    { "id": "o2", "name": "O2", "src": "./Moje O2_rounded.png" },
+    { "id": "boc", "name": "中国银行", "src": "./中国银行_rounded.png" },
+    { "id": "vodafone", "name": "Vodafone", "src": "./My Vodafone_rounded.png" },
+    { "id": "t-mobile", "name": "T-Mobile", "src": "./T-Mobile Prepaid eSIM_rounded.png" },
+    { "id": "skinny", "name": "Skinny Mobile", "src": "./Skinny Mobile_rounded.png" },
+    { "id": "one_nz", "name": "One NZ", "src": "./My One NZ_rounded.png" },
+    { "id": "psbc", "name": "中国邮政储蓄银行", "src": "./邮储银行_rounded.png" },
+    { "id": "1password", "name": "1Password", "src": "./1Password_ Password Manager_rounded.png" },
+    { "id": "spotify", "name": "Spotify", "src": "./Spotify_ Music and Podcasts_rounded.png" },
+    { "id": "giffgaff", "name": "Giffgaff", "src": "./giffgaff_rounded.png" },
+    { "id": "gemini", "name": "Google Gemini", "src": "./Google Gemini_rounded.png" },
+    { "id": "ccb", "name": "中国建设银行", "src": "./中国建设银行_rounded.png" },
+    { "id": "google_voice", "name": "Google Voice", "src": "./Google Voice_rounded.png" },
+    { "id": "netflix", "name": "Netflix", "src": "./Netflix_rounded.png" },
+    { "id": "apple", "name": "Apple", "src": "./apple.png" },
+    { "id": "google", "name": "Google", "src": "./Google_rounded.png" },
+    { "id": "simyo", "name": "Simyo", "src": "./simyo_rounded.png" },
+    { "id": "cmb", "name": "招商银行", "src": "./招商银行_rounded.png" },
+    { "id": "chatgpt", "name": "ChatGPT", "src": "./ChatGPT_rounded.png" },
+    { "id": "youtube", "name": "YouTube", "src": "./YouTube_rounded.png" },
+    { "id": "claude", "name": "Claude", "src": "./Claude by Anthropic_rounded.png" },
+    { "id": "abc", "name": "中国农业银行", "src": "./中国农业银行_rounded.png" }
+  ]
+}
