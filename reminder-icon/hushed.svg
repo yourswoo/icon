@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 480 480"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="title">
+  <title id="title">Hushed</title>
+  <g fill="#000000" transform="translate(240 240) scale(1.878261) translate(-240 -240)">
+    <path d="M144 125H186V232C182 241 180 250 180 258C180 239 197 223 236 223H294V125H336V355H294V258H236C208 258 186 273 186 294V355H144Z"/>
+  </g>
+</svg>
