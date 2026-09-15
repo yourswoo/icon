@@ -24,6 +24,7 @@
     { "id": "chatgpt", "name": "ChatGPT", "src": "./chatgpt.svg" },
     { "id": "claude", "name": "Claude", "src": "./claude.svg" },
     { "id": "codex", "name": "Codex", "src": "./codex.svg" },
+    { "id": "youtube", "name": "Youtube", "src": "./youtube.svg" },
     { "id": "google", "name": "Google", "src": "./google.svg" },
     { "id": "netflix", "name": "Netflix", "src": "./netflix.svg" },
     { "id": "spotify", "name": "Spotify", "src": "./spotify.svg" }
