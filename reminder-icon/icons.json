@@ -20,6 +20,7 @@
     { "id": "hushed", "name": "Hushed", "src": "./hushed.svg" },
     { "id": "apple", "name": "Apple", "src": "./apple.svg" },
     { "id": "Google_Voice", "name": "Google Voice", "src": "./Google_Voice.svg" },
+    { "id": "bilibili", "name": "Bilibili", "src": "./bilibili.svg" },
     { "id": "1password", "name": "1Password", "src": "./1password.svg" },
     { "id": "chatgpt", "name": "ChatGPT", "src": "./chatgpt.svg" },
     { "id": "claude", "name": "Claude", "src": "./claude.svg" },
